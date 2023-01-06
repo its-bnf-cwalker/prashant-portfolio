@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/prashant-portfolio/static/css/main.4059b163.css",
+    "main.js": "/github.io/prashant-portfolio/static/js/main.6a0dd553.js",
+    "static/media/me.png": "/github.io/prashant-portfolio/static/media/me.9802c86c00f9fbbf93f3.png",
+    "static/media/IMG3.jpg": "/github.io/prashant-portfolio/static/media/IMG3.07358668cb90ee81ef61.jpg",
+    "static/media/IMG6.jpg": "/github.io/prashant-portfolio/static/media/IMG6.c1d8ba08a33936805dee.jpg",
+    "static/media/IMG2.jpg": "/github.io/prashant-portfolio/static/media/IMG2.9e7135c50fc5b8c8ef97.jpg",
+    "static/media/Resume.pdf": "/github.io/prashant-portfolio/static/media/Resume.f2249910f530bc0b6bc1.pdf",
+    "static/media/IMG4.jpg": "/github.io/prashant-portfolio/static/media/IMG4.ac885c307c4b6a2cd94f.jpg",
+    "static/media/IMG1.png": "/github.io/prashant-portfolio/static/media/IMG1.4e1fb49d0c6810cdc83d.png",
+    "static/media/IMG5.png": "/github.io/prashant-portfolio/static/media/IMG5.4d040c478bd4efca4638.png",
+    "static/media/avatar.svg": "/github.io/prashant-portfolio/static/media/avatar.0ab4ff9e8587ca163b8ecba82ffda911.svg",
+    "index.html": "/github.io/prashant-portfolio/index.html",
+    "main.4059b163.css.map": "/github.io/prashant-portfolio/static/css/main.4059b163.css.map",
+    "main.6a0dd553.js.map": "/github.io/prashant-portfolio/static/js/main.6a0dd553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4059b163.css",
+    "static/js/main.6a0dd553.js"
+  ]
+}
